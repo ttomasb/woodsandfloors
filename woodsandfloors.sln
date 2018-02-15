@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "woodsandfloors", "woodsandfloors\woodsandfloors.csproj", "{915C6901-3155-458E-86BE-CF0C2FD5E3FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecentEntriesLib", "RecentEntries\RecentEntriesLib.csproj", "{70651571-7BBF-4107-A53C-1991DFD0DE73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{915C6901-3155-458E-86BE-CF0C2FD5E3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915C6901-3155-458E-86BE-CF0C2FD5E3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915C6901-3155-458E-86BE-CF0C2FD5E3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915C6901-3155-458E-86BE-CF0C2FD5E3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70651571-7BBF-4107-A53C-1991DFD0DE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70651571-7BBF-4107-A53C-1991DFD0DE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70651571-7BBF-4107-A53C-1991DFD0DE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70651571-7BBF-4107-A53C-1991DFD0DE73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
