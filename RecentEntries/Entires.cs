@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 
 namespace RecentEntriesLib
 {
-    //test git hub
-    public class RecentEntries
+     public class RecentEntries
     {
         public Queue<string> EntriesQueue { get; set; }
 
